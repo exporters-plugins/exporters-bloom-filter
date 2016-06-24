@@ -14,5 +14,5 @@ deploy:
     secure: Nu5ccIwBDhzTF/ZlEmuZycxB6JQLAvvxfzjPbHh8c/VgBJGPy/5BEFRl5HySnzqCYJ9nR6YRMIqOJqpCZL90XMs1va9ZR10U17tI4SEQc3iyvcjR2tNNuBFVKinevQuEu3GWz23DWTVlOrURNecaY9gkfQmaZ28M16EnXGfLXc0y14EIbQCPgEJxRq4XHYrPzdfOB9hXzlA5oPaPi6HkE5A+SrbeQAGAmGCSIRSJa3gCLS3Ys3npksoY//u4+KG6yk2oTayARdJSqDRcRP/P+BbSGdacrsXWYVxeOZvQVVTT7vfMt0Y5Pxgj0wwxgXr8EHdHznvXsMCWPHYfUNRhJhyXui3EnHOmr0HjBbLTonvgS5xUJ2rr29oHh1kxhnBItNjSxLQIIaLnz6oCaTy/vInoMhGt1iZDjThI81OiOnrSO4YYWeHtsvqxeybaSW++263vRM694Ec2oSsRDjYnoZqlmmZH3WJG4+IgkjtidduhpLEVxxDBtjq8/Wl7ZuE8WY49G+QPA8ZGcBJHG40dJyFDG2CFrofXRGI98+aocpMAF1Sr41ucyC7XopVBkGnrrKkN/AEsJP2bnco2A5wjIunr5DI40uaxUAGz13ODsmwE3etDusxH789ArHo0VGli3aO+M06dFhw9vploJ6NPuAFps+ViHTcT9P/JEszb4UI=
   on:
     tags: true
-    repo: scrapinghub/exporters_bloom_filter
+    repo: scrapinghub/exporters-bloom-filter
     condition: "$TOXENV == py27"
