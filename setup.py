@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'exporters bloom filter',
+    name = 'exporters_bloom_filter',
     version = '0.1.2',
     author = 'Bernardo Botella',
     author_email = 'contacto@bernardobotella.com',
